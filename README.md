@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Ionut (nemo)
 
-<!--
-**nemo30s/nemo30s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student in Belgium. I learn by building things from scratch, mostly performance-critical software in C and C++ and Java.
 
-Here are some ideas to get you started:
+### Building now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **glassgrad**: a neural-network library in C, from scratch. The goal: a framework you can watch learn, where you can rewind training and step through backprop.
+- **EXCHANGE-NAME**: an order book and matching engine in C++, built for speed and measured honestly.
+
+### Interested in
+
+Low-latency systems · markets · machine learning · chess
+
+[LinkedIn](https://www.linkedin.com/in/diaconu-ionut/)
