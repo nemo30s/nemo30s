@@ -10,5 +10,3 @@ Computer science student in Belgium. I learn by building things from scratch, mo
 ### Interested in
 
 Low-latency systems · markets · machine learning · chess
-
-[LinkedIn](https://www.linkedin.com/in/diaconu-ionut/)
