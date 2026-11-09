@@ -1,6 +1,6 @@
 ## Hi, I'm Ionut (nemo)
 
-Computer science student in Belgium. I learn by building things from scratch, mostly performance-critical software in C and C++ and Java.
+Computer science student in Belgium. I learn by building things from scratch, mostly performance-critical software in C, C++ and Java.
 
 ### Building now
 
