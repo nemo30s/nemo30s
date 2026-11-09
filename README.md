@@ -5,7 +5,7 @@ Computer science student in Belgium. I learn by building things from scratch, mo
 ### Building now
 
 - **glassgrad**: a neural-network library in C, from scratch. The goal: a framework you can watch learn, where you can rewind training and step through backprop.
-- **EXCHANGE-NAME**: an order book and matching engine in C++, built for speed and measured honestly.
+- **tickbook**: an order book and matching engine in C++, built for speed and measured honestly.
 
 ### Interested in
 
